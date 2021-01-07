@@ -11,7 +11,7 @@ COVID-19 misinformation repository contains the dataset of already annotated twe
 
 
 # Dataset annotated
-Two Arabic native speaker volunteers labeled the tweets. Before labeling the tweets, the annotators reviewed the list of the collected misinformation reported on both the World Health Organization (WHO) website and the Ministry of Health in Saudi Arabia website. The tweet which contains misinformation was labeled as "1" and others were labeled as  "0".   
+Two Arabic native speaker volunteers labeled the tweets. Before labeling the tweets, the annotators reviewed a list of collected misinformation reported on both the World Health Organization (WHO) website and the Ministry of Health in Saudi Arabia website. The tweets which contains misinformation were labeled as "1" and others were labeled as  "0".   
 
 # Guideline to Hydrate
  ### Using TWARC Notebook ### 
