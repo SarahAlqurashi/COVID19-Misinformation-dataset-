@@ -1,7 +1,7 @@
 # COVID19-Misinformation-Dataset
 COVID-19 misinformation dataset is part of a  project that identifies and discovers real-time misinformation on social media using machine learning approaches applied to Twitter datasets. 
 # Dataset Overview
-COVID-19 misinformation repository contains the dataset of already annotated tweets ids over a span from March 2020 to April  2020. In total, the COVID19  misinformation dataset consists of 8,786 Arabic tweets. The annotated misinformation dataset covers significant, misleading, and inaccurate content that was widely shared among Arab Twitter users during the early months of COVID-19  ( March and April) The number of tweets containing misinformation in April (709 tweets) was higher than its counterpart in March (662 tweets). The table below shows general statistics about the dataset.
+COVID-19 misinformation repository contains the dataset of already annotated tweets ids over a span from March 2020 to April  2020. In total, the COVID19  misinformation dataset consists of 8,786 Arabic tweets. The annotated misinformation dataset covers significant, misleading, and inaccurate content that was widely shared among Arab Twitter users during the early months of COVID-19  ( March and April). The number of tweets containing misinformation in April is  709 tweets and 662 tweets in March.  shows general statistics about the dataset
 
 | Misinformation | Not Misinformation | Total         | 
 | :---:          |     :---:          |      :---:    |
