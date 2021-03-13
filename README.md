@@ -27,6 +27,8 @@ For those who prefer  to use a Graphical User Interface (GUI) , We suggest using
 To use Hydrator follow the instructions in the [Hydrator GitHub repository](https://github.com/DocNow/hydrator). 
 
 For Arabic guideline  on both [Hydrator](https://github.com/DocNow/hydrator) and our [Twarc notebook](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/Hydrate_TweetIDs_Arabic_COVID19.ipynb) check our [دليل استعادة قاعدة بيانات التغريدات](https://github.com/SarahAlqurashi/COVID-19-Arabic-Tweets-Dataset/blob/master/Guideline%20to%20Hydrate/دليل%20استعادة%20قاعدة%20بيانات%20التغريدات.pdf).
+# Contributors
+* [Batool Hmawi](https://github.com/BatoolHamawi?tab=repositories)
 
 # Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all  [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper:https://arxiv.org/abs/2101.05626
